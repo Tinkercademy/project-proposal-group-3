@@ -38,3 +38,4 @@ Our version will succeed because it will be somewhat similar to social media. Yo
 * --> TripAdvisor (more for tourists)
 * --> Families for life (MSF) (more for families)
 * --> blogs (they show limited activities: top 10, etc)
+* --> teach-this (for teaching students)
