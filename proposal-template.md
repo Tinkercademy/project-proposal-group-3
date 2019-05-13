@@ -13,14 +13,14 @@ Feel free to change the headers, but do address the points raised.
 
 ## Problems
 * What problems are people facing? 
-* How are these already being solved? 
 * --> people have trouble finding activities to do, especially for group outings 
+* How are these already being solved? 
 * --> recommendations from friends and blogs
 
 ## Solution
 * What’s your solution, in one sentence?  
-* Can you find an analogy to describe it?  
 * --> recommendations by providing details of activities done by others together with their ratings
+* Can you find an analogy to describe it?  
 * --> like Amazon for activities
 
 ## Assumptions
