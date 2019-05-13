@@ -12,16 +12,12 @@ Whose problems are we trying to solve?
 --> Youth (Students & young adults)
 
 ## Problems
-What problems are people facing?
---> people have trouble finding activities to do, especially for group outings
-How are these already being solved?
---> recommendations from friends and blogs
+What problems are people facing? --> people have trouble finding activities to do, especially for group outings
+How are these already being solved? --> recommendations from friends and blogs
 
 ## Solution
-What’s your solution, in one sentence? 
---> recommendations by providing details of activities done by others together with their ratings
-Can you find an analogy to describe it? 
---> like Amazon for activities
+What’s your solution, in one sentence?  --> recommendations by providing details of activities done by others together with their ratings
+Can you find an analogy to describe it?  --> like Amazon for activities
 
 ## Assumptions
 What assumptions are we making that the project depends on?
